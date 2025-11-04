@@ -1,1 +1,6 @@
+I add this:
 
+if primerNumero % segundoNumero == 0:
+    resultado = int(resultado)
+
+This piece of code makes that, if "resultado" is an intire number, it won´t be showed with decimals. You can trust this with "before.png" and "after.png".
